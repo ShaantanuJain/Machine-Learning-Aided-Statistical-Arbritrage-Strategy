@@ -1,7 +1,7 @@
-# Deep-Learning-aided-Statistical-Arbitrage-Strategy (Pairs Trading)
+# Machine-Learning-aided-Statistical-Arbitrage-Strategy (Pairs Trading)
 
 ## Overview
-This project focuses on developing a deep learning-aided statistical arbitrage strategy for pairs trading, specifically within the Automobile and Heavy Industries sectors. The strategy involves several key steps including Principal Component Analysis (PCA) for market indicators, clustering using the OPTICS algorithm, and various statistical tests to identify and exploit mean-reverting pairs.
+This project focuses on developing a machine learning-aided statistical arbitrage strategy for pairs trading, specifically within the Automobile and Heavy Industries sectors. The strategy involves several key steps including Principal Component Analysis (PCA) for market indicators, clustering using the OPTICS algorithm, and various statistical tests to identify and exploit mean-reverting pairs.
 
 ## Project Workflow
 
@@ -43,7 +43,7 @@ The strategy is applied to the Automobile and Heavy Industries sectors, which ar
 ## Installation
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-repo/Deep-Learning-aided-Statistical-Arbitrage-Strategy.git
+   git clone https://github.com/your-repo/Machine-Learning-aided-Statistical-Arbitrage-Strategy.git
    \`\`\`
 2. Install the required packages:
    \`\`\`bash
@@ -61,7 +61,7 @@ The strategy is applied to the Automobile and Heavy Industries sectors, which ar
 The strategy identifies pairs of stocks with mean-reverting properties and executes trades to exploit these characteristics. The performance of the strategy is evaluated based on the profitability of the trades and the frequency of mean reversion.
 
 ## Conclusion
-This project demonstrates the application of deep learning and statistical methods to develop a robust pairs trading strategy. By leveraging PCA, clustering, and various statistical tests, we can identify and exploit mean-reverting pairs in the Automobile and Heavy Industries sectors.
+This project demonstrates the application of machine learning and statistical methods to develop a robust pairs trading strategy. By leveraging PCA, clustering, and various statistical tests, we can identify and exploit mean-reverting pairs in the Automobile and Heavy Industries sectors.
 
 ## Future Work
 - **Expand Market Universe**: Apply the strategy to other sectors and markets.
@@ -74,4 +74,5 @@ This project demonstrates the application of deep learning and statistical metho
 
 ## Contributors
 - [Shaantanu Jain](https://github.com/ShaantanuJain)
+
 
